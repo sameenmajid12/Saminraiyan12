@@ -10,13 +10,7 @@ I’m a full-stack developer with experience in **React, Node.js, Express, Mongo
 - React.js, JavaScript (ES6+), HTML, CSS, TailwindCSS, Figma  
 
 ### 🛠️ **Backend:**  
-- Node.js, Express.js, WebSockets, RESTful APIs, Authentication (JWT, OAuth)  
-
-### 📦 **Database & Cloud:**  
-- MongoDB, AWS (S3, WebSockets, Deployment), Firebase  
-
-### ⚡ **Other:**  
-- API Development, Real-Time Messaging, Scalable Architecture  
+- Node.js, Express.js, WebSockets, RESTful APIs, Authentication (JWT, OAuth),  MongoDB, AWS, Firebase 
 
 ---
 
@@ -34,7 +28,7 @@ Contributed as a **full-stack developer**, collaborating on a **published resear
 - 🔹 **Optimized database architecture for scalability**  
 - 🔹 **Developed API endpoints for secure authentication**  
 - 🔹 **Created Figma mockups to enhance UI/UX design**  
-- **Tech:** Node.js, Express.js, MongoDB, Figma  
+- **Tech:** Node.js, Express.js, MongoDB, Figma
 
 ---
 
