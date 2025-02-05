@@ -24,7 +24,7 @@ A full-stack social media platform where users can **upload albums, share photos
 - **Tech:** React, Node.js, Express, MongoDB, AWS (S3, WebSockets)  
 
 ### 🌍 [Humanity Unleashed](#) – Research & Development  
-Contributed as a **full-stack developer**, collaborating on a **published research paper** and working on:  
+Contributed as a **full-stack developer**, collaborated on a **published research paper** and working on:  
 - 🔹 **Optimized database architecture for scalability**  
 - 🔹 **Developed API endpoints for secure authentication**  
 - 🔹 **Created Figma mockups to enhance UI/UX design**  
