@@ -7,7 +7,7 @@ I’m a full-stack developer with experience in **React, Node.js, Express, Mongo
 
 ## 🔧 Tech Stack & Skills  
 ### 🖥️ **Frontend:**  
-- React.js, JavaScript (ES6+), HTML, CSS, TailwindCSS, Figma  
+- React.js, JavaScript , HTML, CSS, TailwindCSS, Figma  
 
 ### 🛠️ **Backend:**  
 - Node.js, Express.js, WebSockets, RESTful APIs, Authentication (JWT, OAuth),  MongoDB, AWS, Firebase 
